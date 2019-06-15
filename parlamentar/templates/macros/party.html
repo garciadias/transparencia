@@ -1,0 +1,16 @@
+{% macro render_party(party, from_index=false) %}
+<div class="text-center">
+  <div class="party-div">
+    <h2 class="party-h2"> {{ party.acronym }} </h2>
+    {% if party.image %}
+      <img class="party-image" src="{{ party.image }}" alt="{{ party.acronym }} image">
+    {% else %}
+      <img class="party-image" src="{{ '/static/img/default.png'|url }}" alt="{{ party.acronym }} image">
+    {% endif %}
+      <p class="subtitle">Written on {{ party.pub_date }}</p>
+    <div class="justify">
+      {{ party.body }}
+    </div>
+  </div>
+</div>
+{% endmacro %}

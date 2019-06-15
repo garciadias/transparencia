@@ -1,0 +1,5 @@
+[project]
+name = transparencia-parlamentar
+[servers.ghpages]
+target = ghpages+https://github.com/transparenciaparlamentar
+username = transparenciaparlamentar@gmail.com

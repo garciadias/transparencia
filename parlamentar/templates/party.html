@@ -1,0 +1,6 @@
+{% extends "layout.html" %}
+{% from "macros/party.html" import render_party %}
+{% block title %}{{ this.title }}{% endblock %}
+{% block body %}
+  {{ render_party(this) }}
+{% endblock %}

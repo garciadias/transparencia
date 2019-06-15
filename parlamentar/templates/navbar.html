@@ -1,0 +1,8 @@
+<div class="topnav" id="myTopnav">
+  <a class="bar-item padding-large left" href="{{ "/"|url }}">Home</a>
+  {% for href, title in [["/parties", "Partidos"],]%}
+  <a class="bar-item padding-large left" href="{{ href|url }}">{{ title }}</a>
+  {% endfor %}
+  <a href="https://github.com/transparenciaparlamentar" class="bar-item right padding-large"><i class="fab fa-github"></i></a>
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()"><i class="fa fa-bars"></i></a>
+</div>

@@ -1,0 +1,12 @@
+{% macro render_parties(party, from_index=false) %}
+      <div class="thumbnail">
+        <a href="{{ party.acronym|url }}">
+         {% if party.image %}
+           <img src="{{ party.image }}" alt="{{ party.acronym }} image" class="color-border" width="100%" height="100%">
+         {% else %}
+           <img src="{{ "/static/img/parties/default.png"|url }}"
+           alt="{{ party.acronym }} image" class="color-border" width="100%" height="100%">
+         {% endif %}
+        </a>
+      </div>
+{% endmacro %}

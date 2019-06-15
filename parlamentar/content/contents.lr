@@ -1,0 +1,10 @@
+title: Home
+---
+body:
+  <div class="centered">
+    <h1 class="centered"><b>Transparencia Parlamentar</b></h1>
+    <h2 class="subtitle">
+      <i>Subtitle</i>
+      <a href="https://www.kcl.ac.uk/index.aspx">link</a>
+    <img src="/static/img/brasil.png" alt="Brazilian flag" width="100%">
+  </div>

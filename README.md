@@ -18,7 +18,7 @@ In the **parlamentar** folder we have the [Lektor](https://www.getlektor.com/) p
 
 
 
-### Render the website 
+### Render the website
 
 To run a local service with the website go to the **parlamentar** folder and run:
 
@@ -36,3 +36,6 @@ But if you run `lektor serve` the build is already done automatically while you 
 
 Full documentation for Lektor can be found at [https://www.getlektor.com](https://www.getlektor.com).
 
+# Data discription
+
+https://www2.camara.leg.br/transparencia/cota-para-exercicio-da-atividade-parlamentar/explicacoes-sobre-o-formato-dos-arquivos-xml

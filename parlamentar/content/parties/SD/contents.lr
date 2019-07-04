@@ -3,10 +3,13 @@ acronym: SD
 ---
 image: /static/img/parties/SD.png
 ---
-color:  #D86425
+color: #D86425
 ---
-title:  Solidariedade
+title: Solidariedade
+---
+suppliers: "Cia Aérea - TAM", "A e P Comercio de Papelaria LTDA", "Cia Aérea - GOL", "WALDECK ADVOGADOS ASSOCIADOS S/S", "CRBR COMUNICAÇÃO", "RAMAL", "WINDSON CONSULTORIA E PROJETOS LTDA", "SECULUS ANALISE E PESQUISA DE OPINIAO", "BRLZ COMUNICAÇÃO LTDA EPP", "Jessica Cruz Barbosa"
+---
+document_values:  0.51, 0.16, 0.15, 0.13, 0.12, 0.11, 0.11, 0.1, 0.1, 0.1
 ---
 body:
-
- #actual content
+test

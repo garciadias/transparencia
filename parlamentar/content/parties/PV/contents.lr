@@ -3,10 +3,13 @@ acronym: PV
 ---
 image: /static/img/parties/PV.png
 ---
-color:  #006600
+color: #006600
 ---
-title:  Partido Verde
+title: Partido Verde
+---
+suppliers: "Cia Aérea - GOL", "Cia Aérea - TAM", "Cia Aérea - AZUL", "NOVO MILLENIUM COMUNICAÇÃO LTDA ME", "ASSOCIAÇÃO NACIONAL DA GESTÃO PÚBLICA - ANGESP", "Gasparetto & Buligon - Sociedade de Advogados", "PMP COMUNICAÇÃO LTDA - ME", "VILA RICA RENT A CAR", "PRO-EMPRESA INFORMÁTICA LTDA - EPP", "LOCABEM RENT A CAR"
+---
+document_values:  0.81, 0.79, 0.38, 0.27, 0.17, 0.17, 0.16, 0.16, 0.15, 0.14
 ---
 body:
-
- #actual content
+test

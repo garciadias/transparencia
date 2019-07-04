@@ -8,6 +8,10 @@ color: %s
 ---
 title: %s
 ---
+suppliers: \"%s\"
+---
+document_values:  %s
+---
 body:
 %s
 """

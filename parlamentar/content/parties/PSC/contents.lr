@@ -3,10 +3,13 @@ acronym: PSC
 ---
 image: /static/img/parties/PSC.png
 ---
-color:  #009118
+color: #009118
 ---
-title:  Partido Social Cristão
+title: Partido Social Cristão
+---
+suppliers: "Cia Aérea - TAM", "Cia Aérea - GOL", "RACHID SOCIEDADE INDIVIDUAL DE ADVOCACIA", "Cia Aérea - AVIANCA", "FATIMA FERREIRA DOS SANTOS ME", "ATOS  DOIS PROPAGANDA E PUBLICIDADE LTDA ME", "THEODORO $ RACHID SOCIEDADE DE ADVOGADOS", "Cia Aérea - AZUL", "UP COMÉRCIO E INDÚSTRIA GRÁFICA LTDA", "RACHID SOCIEDADE DE ADVOGADOS"
+---
+document_values:  1.81, 1.18, 0.66, 0.64, 0.43, 0.37, 0.34, 0.32, 0.31, 0.28
 ---
 body:
-
- #actual content
+test

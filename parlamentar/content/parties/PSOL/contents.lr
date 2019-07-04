@@ -3,10 +3,13 @@ acronym: PSOL
 ---
 image: /static/img/parties/PSOL.png
 ---
-color:  #ED040E
+color: #ED040E
 ---
-title:  Partido Socialismo e Liberdade
+title: Partido Socialismo e Liberdade
+---
+suppliers: "Cia Aérea - TAM", "Cia Aérea - GOL", "CARLOS ALBERTO SIQUEIRA", "PEDRO WLADIMIR QUEIROZ BERNARDES", "GRAFICA CHACO LTDA", "Cia Aérea - AVIANCA", "LOCALIZA RENT A CAR S/A", "TORRE COMUNICAÇÃO & ESTRATÉGIA - LTDA", "LEONARDO DA SILVEIRA", "POSTO DE GASOLINA BOA VIAGEM DE FRIBURGO LTDA"
+---
+document_values:  2.01, 1.22, 0.46, 0.41, 0.4, 0.32, 0.24, 0.21, 0.15, 0.15
 ---
 body:
-
- #actual content
+test

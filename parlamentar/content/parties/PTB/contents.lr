@@ -3,10 +3,13 @@ acronym: PTB
 ---
 image: /static/img/parties/PTB.png
 ---
-color:  #00bfff
+color: #00bfff
 ---
-title:  Partido Trabalhista Brasileiro
+title: Partido Trabalhista Brasileiro
+---
+suppliers: "Cia Aérea - TAM", "Cia Aérea - GOL", "Cia Aérea - AZUL", "Cia Aérea - AVIANCA", "VERTICE - SOCIEDADE CIVIL DE PROFISSIONAIS ASSOCIADOS", "CEARÁ TAXI AÉREO LTDA", "AMAZON SOLUTION COMUNICAÇÃO PROPAGANDA E MARKETING LTDA", "Vértice Associados", "CELULAR FUNCIONAL", "CONHECIMENTO DIGITAL LTDA"
+---
+document_values:  3.36, 3.09, 1.12, 0.93, 0.65, 0.57, 0.56, 0.54, 0.45, 0.44
 ---
 body:
-
- #actual content
+test

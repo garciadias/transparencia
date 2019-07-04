@@ -3,10 +3,13 @@ acronym: PATRI
 ---
 image: /static/img/parties/PATRI.png
 ---
-color:  #CCAA00
+color: #CCAA00
 ---
-title:  Patriota
+title: Patriota
+---
+suppliers: "Cia Aérea - GOL", "Cia Aérea - TAM", "Vértice Associados", "O. F. SERVIÇOS DE VIGILÂNCIA LTDA", "VERTICE - SOCIEDADE CIVIL DE PROFISSIONAIS ASSOCIADOS", "SWELL HOME CONSULTORIA EM TECNOLOGIA DA INFORMAÇÃO", "Cia Aérea - AVIANCA", "DELAIDE RODRIGUES DE SANT'ANNA", "FLANCAR DE IGUAÇU VEÍCULOS E LOCAÇÕES LTDA", "STV COMUNICAÇÃO"
+---
+document_values:  0.93, 0.55, 0.36, 0.29, 0.25, 0.24, 0.21, 0.19, 0.17, 0.14
 ---
 body:
-
- #actual content
+test

@@ -3,10 +3,13 @@ acronym: PPS
 ---
 image: /static/img/parties/PPS.png
 ---
-color:  #FF9191
+color: #FF9191
 ---
-title:  Partido Popular Socialista
+title: Partido Popular Socialista
+---
+suppliers: "Cia Aérea - TAM", "Cia Aérea - GOL", "A J L CALDAS", "ATLANTA RENT A CAR", "BORN TO BE LTDA ME", "AGENCIA PLA DE COMUNICAÇÃO E EVENTO LTDA", "HYULLEY MACHADO ADVOGADOS ASSOCIADOS S/S", "CALDAS INFORMATICA EIRELI", "NILZA DUARTE IMOVEIS", "CHARM RENT A CAR LTDA EPP"
+---
+document_values:  0.92, 0.76, 0.27, 0.26, 0.24, 0.2, 0.2, 0.13, 0.13, 0.12
 ---
 body:
-
- #actual content
+test

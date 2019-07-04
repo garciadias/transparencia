@@ -3,10 +3,13 @@ acronym: MDB
 ---
 image: /static/img/parties/MDB.png
 ---
-color:  #30914D
+color: #30914D
 ---
-title:  Movimento Democrático Brasileiro
+title: Movimento Democrático Brasileiro
+---
+suppliers: "Cia Aérea - TAM", "Cia Aérea - GOL", "Cia Aérea - AZUL", "Cia Aérea - AVIANCA", "CELULAR FUNCIONAL", "STILO GRAFICA E EDITORA LTDA", "RAMAL", "WULFERT DE OLIVEIRA & CIA LTDA", "TELEFONICA BRASIL S.A.", "MATHEUS & MENDES SOCIEDADE DE ADVOGADOS"
+---
+document_values:  10.46, 8.81, 4.12, 2.52, 1.19, 1.03, 1.0, 0.97, 0.55, 0.52
 ---
 body:
-
- #actual content
+test

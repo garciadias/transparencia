@@ -3,10 +3,13 @@ acronym: PDT
 ---
 image: /static/img/parties/PDT.png
 ---
-color:  #FE8E6D
+color: #FE8E6D
 ---
-title:  Partido Democrático Trabalhista
+title: Partido Democrático Trabalhista
+---
+suppliers: "Cia Aérea - TAM", "Cia Aérea - GOL", "Cia Aérea - AVIANCA", "Cia Aérea - AZUL", "CONTRASTE EDITORA E INDUSTRIA GRAFICA", "DUAILIBE ADVOGADOS E ASSOCIADOS S/S", "ARNO AURÉLIO GLASER -ME", "BRIZZA COMÉRCIO DE VEICULOS LTDA", "CELULAR FUNCIONAL", "RENATO LEILSON SANTOS DA COSTA"
+---
+document_values:  4.28, 3.36, 1.14, 0.84, 0.53, 0.52, 0.42, 0.38, 0.38, 0.37
 ---
 body:
-
- #actual content
+test

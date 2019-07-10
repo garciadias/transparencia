@@ -9,10 +9,14 @@
     {% endif %}
     <div class="justify">
       <canvas id="myChart"></canvas>
+      {% if not party.document_values %}
+        <p class="title"> Não há dados disponíveis para este partido.</p>
+      {% endif %}
       {{ party.body }}
     </div>
   </div>
 </div>
+{% if party.document_values %}
 <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
 <script type="text/javascript">
 var ctx = document.getElementById('myChart').getContext('2d');
@@ -32,4 +36,5 @@ var chart = new Chart(ctx, {
     },
 });
 </script>
+{% endif %}
 {% endmacro %}

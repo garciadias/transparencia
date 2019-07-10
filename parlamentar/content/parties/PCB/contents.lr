@@ -3,10 +3,13 @@ acronym: PCB
 ---
 image: /static/img/parties/PCB.png
 ---
-color:  #FFFFFF
+color: #FFFFFF
 ---
-title:  Partido Comunista Brasileiro
+title: Partido Comunista Brasileiro
+---
+suppliers: ""
+---
+document_values:  
 ---
 body:
-
- #actual content
+test

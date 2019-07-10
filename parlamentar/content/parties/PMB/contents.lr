@@ -3,10 +3,13 @@ acronym: PMB
 ---
 image: /static/img/parties/PMB.png
 ---
-color:  #FFFFFF
+color: #FFFFFF
 ---
-title:  Partido da Mulher Brasileira
+title: Partido da Mulher Brasileira
+---
+suppliers: ""
+---
+document_values:  
 ---
 body:
-
- #actual content
+test

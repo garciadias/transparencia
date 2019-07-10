@@ -7,9 +7,9 @@ color: #CCAA00
 ---
 title: Patriota
 ---
-suppliers: "Cia Aérea - GOL", "Cia Aérea - TAM", "Vértice Associados", "O. F. SERVIÇOS DE VIGILÂNCIA LTDA", "VERTICE - SOCIEDADE CIVIL DE PROFISSIONAIS ASSOCIADOS", "SWELL HOME CONSULTORIA EM TECNOLOGIA DA INFORMAÇÃO", "Cia Aérea - AVIANCA", "DELAIDE RODRIGUES DE SANT'ANNA", "FLANCAR DE IGUAÇU VEÍCULOS E LOCAÇÕES LTDA", "STV COMUNICAÇÃO"
+suppliers: "Cia Aérea - GOL", "Cia Aérea - TAM", "OFILOC", "Vértice Associados", "KROMA GRÁFICA", "O. F. SERVIÇOS DE VIGILÂNCIA LTDA", "Cia Aérea - GOL", "VERTICE - SOCIEDADE CIVIL DE PROFISSIONAIS ASSOCIADOS", "SWELL HOME CONSULTORIA EM TECNOLOGIA DA INFORMAÇÃO", "Cia Aérea - AVIANCA"
 ---
-document_values:  0.93, 0.55, 0.36, 0.29, 0.25, 0.24, 0.21, 0.19, 0.17, 0.14
+document_values:  0.93, 0.55, 0.48, 0.36, 0.35, 0.29, 0.26, 0.25, 0.24, 0.21
 ---
 body:
 test

@@ -7,9 +7,9 @@ color: #FF4500
 ---
 title: Partido Liberal
 ---
-suppliers: "Cia Aérea - TAM", "Cia Aérea - GOL", "Cia Aérea - AZUL", "Cia Aérea - AVIANCA", "ADMINISTRADORA IMOBILIARIA ASSIS LTDA", "GALZON EDITORA GRAFICA LTDA", "DMD GESTÃO ADM. LTDA", "Book Serviços Gráficos Ltda", "CELULAR FUNCIONAL", "JOSELY FERNANDA DO NASCIMENTO"
+suppliers: "Cia Aérea - TAM", "Cia Aérea - TAM", "Cia Aérea - GOL", "Cia Aérea - AZUL", "Cia Aérea - GOL", "Cia Aérea - AVIANCA", "Cia Aérea - AZUL", "Cia Aérea - AVIANCA", "ADMINISTRADORA IMOBILIARIA ASSIS LTDA", "GALZON EDITORA GRAFICA LTDA"
 ---
-document_values:  3.67, 3.06, 2.31, 0.71, 0.61, 0.6, 0.59, 0.58, 0.54, 0.44
+document_values:  4.18, 3.67, 3.06, 2.31, 2.18, 1.16, 0.87, 0.71, 0.61, 0.6
 ---
 body:
 test

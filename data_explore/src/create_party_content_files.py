@@ -33,14 +33,20 @@ if __name__ == '__main__':
         create_data_by_party_parties()
     else:
         COMPANIES_BY_PARTY = pd.read_csv('%s/data_explore/data/companies_by_party.csv' % getcwd(), index_col=0)
-
+    Rename = {'CIDADANIA': 'PPS', 'PEN': 'PATRI', 'PMDB': 'MDB', 'PP**': 'PP', 'PSDC': 'DC', 'PRP': 'PATRIOTA',
+              'SOLIDARIEDADE': 'SD', 'PTdoB': 'AVANTE', 'PATRIOTA': 'PATRI', 'PR': 'PL'}
+    COMPANIES_BY_PARTY.index = COMPANIES_BY_PARTY.index.to_series().replace(Rename).values
     VALID_PARTIES = COMPANIES_BY_PARTY.index.unique()[COMPANIES_BY_PARTY.index.unique().isin(PARTIES_COLOR.index)]
     content = 'test'
-    for party, (color, title) in PARTIES_COLOR.loc[VALID_PARTIES].iterrows():
+    for party, (color, title) in PARTIES_COLOR.iterrows():
         party_path = '%s%s' % (PARTIES_CONTENT_PATH, party)
         Path(party_path).mkdir(exist_ok=True)
-        top_companies = get_top_n_companies_by_party(party)
-        suppliers, document_values = top_companies['supplier'], top_companies['document_value']
-        suppliers = '\", \"'.join(suppliers.values)
-        document_values = ', '.join(document_values.values.round(2).astype('str'))
+        if COMPANIES_BY_PARTY.index.unique().to_series().str.contains(party).any():
+            top_companies = get_top_n_companies_by_party(party)
+            suppliers, document_values = top_companies['supplier'], top_companies['document_value']
+            suppliers = '\", \"'.join(suppliers.values)
+            document_values = ', '.join(document_values.values.round(2).astype('str'))
+        else:
+            suppliers = ""
+            document_values = ""
         write_content_file(party, color, title, suppliers, document_values, content)

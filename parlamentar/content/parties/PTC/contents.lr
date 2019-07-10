@@ -3,10 +3,13 @@ acronym: PTC
 ---
 image: /static/img/parties/PTC.png
 ---
-color:  #FFFFFF
+color: #FFFFFF
 ---
-title:  Partido Trabalhista Cristão
+title: Partido Trabalhista Cristão
+---
+suppliers: ""
+---
+document_values:  
 ---
 body:
-
- #actual content
+test

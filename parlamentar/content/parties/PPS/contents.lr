@@ -7,7 +7,11 @@ color: #FF9191
 ---
 title: Partido Popular Socialista
 ---
-suppliers: "Cia Aérea - TAM", "Cia Aérea - TAM", "Cia Aérea - GOL", "Cia Aérea - GOL", "ADAPRINT ARTES GRAFICAS LTDA", "SCB ADMINISTRACAO DE BENS LTDA", "Cia Aérea - AVIANCA", "A J L CALDAS", "ATLANTA RENT A CAR", "LOCAR PRIME LOCAÇÃO DE VEÍCULOS LTDA-ME"
+suppliers: "Cia Aérea - TAM", "Cia Aérea - TAM", "Cia Aérea - GOL", "Cia Aérea - GOL", "ADAPRINT ARTES GRAFICAS LTDA", "S.A.D.B.L", "Cia Aérea - AVIANCA", "A J L CALDAS", "ATLANTA RENT A CAR", "L.P.L.D.V.L"
+---
+abbreviations: L.P.L.D.V.L
+---
+abb_translations: LOCAR PRIME LOCAÇÃO DE VEÍCULOS LTDA-ME
 ---
 document_values:  0.92, 0.79, 0.76, 0.67, 0.64, 0.35, 0.28, 0.27, 0.26, 0.25
 ---

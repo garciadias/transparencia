@@ -8,7 +8,7 @@ color: %s
 ---
 title: %s
 ---
-suppliers: \"%s\"
+suppliers: %s
 ---
 document_values:  %s
 ---

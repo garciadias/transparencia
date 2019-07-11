@@ -7,7 +7,11 @@ color: #203B78
 ---
 title: Partido Social Liberal
 ---
-suppliers: "Cia Aérea - TAM", "Cia Aérea - GOL", "Cia Aérea - AZUL", "MWR PUBLICIDADE E SERVIÇOS LTDA.", "V C F DA SILVA GRAFICA -ME", "LOCAR NEW VEÍCULOS E MÁQUINAS LTDA", "PAULO HENRIQUE PETROCINI", "Cia Aérea - AVIANCA", "EBILGRAF - SERVIÇOS GRAFICOS LTDA - ME", "ECT - EMPR. BRAS. DE CORREIOS E TELÉGRAFOS"
+suppliers: "Cia Aérea - TAM", "Cia Aérea - GOL", "Cia Aérea - AZUL", "M.P.E.S.L", "V C F DA SILVA GRAFICA -ME", "L.N.V.E.M.L", "PAULO HENRIQUE PETROCINI", "Cia Aérea - AVIANCA", "E.-.S.G.L.-.M", "E.-.E.B.D.C.E.T"
+---
+abbreviations: M.P.E.S.L, L.N.V.E.M.L, E.-.S.G.L.-.M, E.-.E.B.D.C.E.T
+---
+abb_translations: MWR PUBLICIDADE E SERVIÇOS LTDA., LOCAR NEW VEÍCULOS E MÁQUINAS LTDA, EBILGRAF - SERVIÇOS GRAFICOS LTDA - ME, ECT - EMPR. BRAS. DE CORREIOS E TELÉGRAFOS
 ---
 document_values:  1.39, 1.3, 0.61, 0.5, 0.49, 0.35, 0.32, 0.28, 0.26, 0.26
 ---

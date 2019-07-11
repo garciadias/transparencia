@@ -7,7 +7,11 @@ color: #00bfff
 ---
 title: Partido Trabalhista Brasileiro
 ---
-suppliers: "Cia Aérea - TAM", "Cia Aérea - GOL", "Cia Aérea - AZUL", "Cia Aérea - AVIANCA", "VERTICE - SOCIEDADE CIVIL DE PROFISSIONAIS ASSOCIADOS", "CEARÁ TAXI AÉREO LTDA", "AMAZON SOLUTION COMUNICAÇÃO PROPAGANDA E MARKETING LTDA", "Vértice Associados", "CELULAR FUNCIONAL", "CONHECIMENTO DIGITAL LTDA"
+suppliers: "Cia Aérea - TAM", "Cia Aérea - GOL", "Cia Aérea - AZUL", "Cia Aérea - AVIANCA", "V.-.S.C.D.P.A", "CEARÁ TAXI AÉREO LTDA", "A.S.C.P.E.M.L", "Vértice Associados", "CELULAR FUNCIONAL", "CONHECIMENTO DIGITAL LTDA"
+---
+abbreviations: V.-.S.C.D.P.A, A.S.C.P.E.M.L
+---
+abb_translations: VERTICE - SOCIEDADE CIVIL DE PROFISSIONAIS ASSOCIADOS, AMAZON SOLUTION COMUNICAÇÃO PROPAGANDA E MARKETING LTDA
 ---
 document_values:  3.36, 3.09, 1.12, 0.93, 0.65, 0.57, 0.56, 0.54, 0.45, 0.44
 ---

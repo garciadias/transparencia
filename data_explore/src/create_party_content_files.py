@@ -26,6 +26,11 @@ def get_top_n_companies_by_party(party, n_values=10):
     return COMPANIES_BY_PARTY.loc[party].sort_values('document_value', ascending=False).head(10)
 
 
+def get_abbreviation(supplier):
+    supplier_split = supplier.split(' ')
+    return '.'.join([word[:1] for word in supplier_split]).upper()
+
+
 if __name__ == '__main__':
     PARTIES_COLOR = pd.read_csv('%s/data_explore/data/parties_color.csv' % getcwd(), index_col=0)
     PARTIES_CONTENT_PATH = '%s/parlamentar/content/parties/' % getcwd()
@@ -44,9 +49,18 @@ if __name__ == '__main__':
         if COMPANIES_BY_PARTY.index.unique().to_series().str.contains(party).any():
             top_companies = get_top_n_companies_by_party(party)
             suppliers, document_values = top_companies['supplier'], top_companies['document_value']
-            suppliers = '\", \"'.join(suppliers.values)
+            is_large_string = top_companies['supplier'].str.len() > 30
+            if is_large_string.any():
+                full_names = suppliers.values
+                suppliers = pd.Series([supplier if len(supplier) < 30 else get_abbreviation(supplier)
+                                       for supplier in full_names])
+                suppliers_str = '\"' + '\", \"'.join(suppliers.values)
+                suppliers_str += '\"\n---\nabbreviations: %s' % ', '.join(suppliers[is_large_string.values])
+                suppliers_str += '\n---\nabb_translations: %s' % ', '.join(full_names[is_large_string.values])
+            else:
+                suppliers_str = ""
             document_values = ', '.join(document_values.values.round(2).astype('str'))
         else:
-            suppliers = ""
+            suppliers_str = ""
             document_values = ""
-        write_content_file(party, color, title, suppliers, document_values, content)
+        write_content_file(party, color, title, suppliers_str, document_values, content)

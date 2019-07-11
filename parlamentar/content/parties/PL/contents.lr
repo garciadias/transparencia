@@ -7,7 +7,11 @@ color: #FF4500
 ---
 title: Partido Liberal
 ---
-suppliers: "Cia Aérea - TAM", "Cia Aérea - TAM", "Cia Aérea - GOL", "Cia Aérea - AZUL", "Cia Aérea - GOL", "Cia Aérea - AVIANCA", "Cia Aérea - AZUL", "Cia Aérea - AVIANCA", "ADMINISTRADORA IMOBILIARIA ASSIS LTDA", "GALZON EDITORA GRAFICA LTDA"
+suppliers: "Cia Aérea - TAM", "Cia Aérea - TAM", "Cia Aérea - GOL", "Cia Aérea - AZUL", "Cia Aérea - GOL", "Cia Aérea - AVIANCA", "Cia Aérea - AZUL", "Cia Aérea - AVIANCA", "A.I.A.L", "GALZON EDITORA GRAFICA LTDA"
+---
+abbreviations: A.I.A.L
+---
+abb_translations: ADMINISTRADORA IMOBILIARIA ASSIS LTDA
 ---
 document_values:  4.18, 3.67, 3.06, 2.31, 2.18, 1.16, 0.87, 0.71, 0.61, 0.6
 ---

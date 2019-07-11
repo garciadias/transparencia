@@ -8,9 +8,21 @@
       <img class="party-image" src="{{ '/static/img/default.png'|url }}" alt="{{ party.acronym }} image">
     {% endif %}
     <div class="justify">
+      {% if party.abbreviations %}
+      {% set abbreviations = party.abbreviations.split(', ') %}
+      {% set abb_translations = party.abb_translations.split(', ') %}
+      <table style="width:100%">
+      {% for abbreviation in abbreviations %}
+      <tr>
+        <th>{{ abbreviation }}</th>
+        <th>{{ abb_translations[loop.index -1] }}</th>
+      </tr>
+      {% endfor %}
+      </table>
+      {% endif %}
       <canvas id="myChart"></canvas>
       {% if not party.document_values %}
-        <p class="title"> Não há dados disponíveis para este partido.</p>
+      <p class="title"> Não há dados disponíveis para este partido.</p>
       {% endif %}
       {{ party.body }}
     </div>
@@ -32,8 +44,18 @@ var chart = new Chart(ctx, {
             backgroundColor: '{{ party.color|safe }}',
             borderColor: '{{ party.color|safe }}',
             data: [{{ party.document_values }}]
-        }]
+        }],
     },
+  options: {
+    scales: {
+      yAxes: [{
+        scaleLabel: {
+          display: true,
+          labelString: 'Milões de Reais',
+        }
+      }]
+    }
+  },
 });
 </script>
 {% endif %}

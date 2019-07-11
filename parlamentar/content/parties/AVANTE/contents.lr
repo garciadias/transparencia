@@ -7,7 +7,11 @@ color: #ED5F36
 ---
 title: Avante
 ---
-suppliers: "Cia Aérea - GOL", "Cia Aérea - TAM", "Cia Aérea - AVIANCA", "Cia Aérea - AZUL", "BARROS & BOAVENTURA ADVOGADOS", "AJA LOCADORA DE VEÍCULOS", "BARRETO SANTOS LTDA.", "PONTES E CASANOVA ADVOGADOS ASSOCIADOS", "J B DOS SANTOS LOCAÇÃO DE VEÍCULOS EIRELI", "Evandro de Paiva Barbosa"
+suppliers: "Cia Aérea - GOL", "Cia Aérea - TAM", "Cia Aérea - AVIANCA", "Cia Aérea - AZUL", "BARROS & BOAVENTURA ADVOGADOS", "AJA LOCADORA DE VEÍCULOS", "BARRETO SANTOS LTDA.", "P.E.C.A.A", "J.B.D.S.L.D.V.E", "Evandro de Paiva Barbosa"
+---
+abbreviations: P.E.C.A.A, J.B.D.S.L.D.V.E
+---
+abb_translations: PONTES E CASANOVA ADVOGADOS ASSOCIADOS, J B DOS SANTOS LOCAÇÃO DE VEÍCULOS EIRELI
 ---
 document_values:  0.73, 0.73, 0.53, 0.4, 0.34, 0.34, 0.29, 0.28, 0.27, 0.22
 ---

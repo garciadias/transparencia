@@ -7,7 +7,11 @@ color: #8CC63E
 ---
 title: Democratas
 ---
-suppliers: "Cia Aérea - TAM", "Cia Aérea - GOL", "Cia Aérea - AZUL", "Cia Aérea - AVIANCA", "CELULAR FUNCIONAL", "DOUGLAS CUNHA DA SILVA ME", "RAMAL", "ATOS  DOIS PROPAGANDA E PUBLICIDADE LTDA ME", "CARVALHO & CARDOSO ADVOGADOS ASSOCIADOS", "Objetividade"
+suppliers: "Cia Aérea - TAM", "Cia Aérea - GOL", "Cia Aérea - AZUL", "Cia Aérea - AVIANCA", "CELULAR FUNCIONAL", "DOUGLAS CUNHA DA SILVA ME", "RAMAL", "A..D.P.E.P.L.M", "C.&.C.A.A", "Objetividade"
+---
+abbreviations: A..D.P.E.P.L.M, C.&.C.A.A
+---
+abb_translations: ATOS  DOIS PROPAGANDA E PUBLICIDADE LTDA ME, CARVALHO & CARDOSO ADVOGADOS ASSOCIADOS
 ---
 document_values:  9.02, 6.15, 2.19, 1.88, 1.0, 0.74, 0.65, 0.53, 0.5, 0.42
 ---

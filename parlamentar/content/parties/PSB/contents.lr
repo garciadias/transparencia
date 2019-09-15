@@ -3,10 +3,17 @@ acronym: PSB
 ---
 image: /static/img/parties/PSB.png
 ---
-color:  #FC6569
+color: #FC6569
 ---
-title:  Partido Socialista Brasileiro
+title: Partido Socialista Brasileiro
+---
+suppliers: "Cia Aérea - GOL", "Cia Aérea - TAM", "Cia Aérea - AVIANCA", "Cia Aérea - AZUL", "CELULAR FUNCIONAL", "UNIGEST PROPAGANDA LTDA", "P.H.C.B.L", "CORREIOS - SEDEX CONVENCIONAL", "F.A.G.L.M", "CAPITAL SERVIÇOS LTDA"
+---
+abbreviations: P.H.C.B.L
+---
+abb_translations: POSTO HOMERO CASTELO BRANCO LTDA
+---
+document_values:  4.47, 4.28, 1.84, 1.4, 0.65, 0.61, 0.45, 0.42, 0.42, 0.39
 ---
 body:
-
- #actual content
+test

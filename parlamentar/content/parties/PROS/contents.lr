@@ -3,10 +3,17 @@ acronym: PROS
 ---
 image: /static/img/parties/PROS.png
 ---
-color:  #FF5460
+color: #FF5460
 ---
-title:  Partido Republicano da Ordem Social
+title: Partido Republicano da Ordem Social
+---
+suppliers: "Cia Aérea - TAM", "Cia Aérea - GOL", "Cia Aérea - AZUL", "SEMPRE EDITORA LTDA.", "C.P.E.E.G.L", "Cia Aérea - AVIANCA", "E.V.1.E.S.P.L", "marwic artes graficas ltda", "MARWIC ARTES GRAFICAS LTDA", "T.L.D.V"
+---
+abbreviations: C.P.E.E.G.L, E.V.1.E.S.P.L
+---
+abb_translations: Cometa Papeis Editora e Gráfica Ltda, ECT VIDEO 1 E SELOS POSTAIS LTDA
+---
+document_values:  2.36, 2.01, 1.07, 0.89, 0.67, 0.47, 0.4, 0.37, 0.35, 0.33
 ---
 body:
-
- #actual content
+test

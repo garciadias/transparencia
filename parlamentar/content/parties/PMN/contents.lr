@@ -3,10 +3,17 @@ acronym: PMN
 ---
 image: /static/img/parties/PMN.png
 ---
-color:  #DD3333
+color: #DD3333
 ---
-title:  Partido da Mobilização Nacional
+title: Partido da Mobilização Nacional
+---
+suppliers: "BRASILIA PRINT", "ALMEIDA RAMOS ADVOGADOS S/C", "HSG PRODUÇOES LTDA ME", "H.V.E.S.L", "VELOZ", "E.J.I.L.M", "Cia Aérea - TAM", "M F BRETAS", "Cia Aérea - GOL", "MEIRELLES FERREIRA"
+---
+abbreviations: H.V.E.S.L, E.J.I.L.M
+---
+abb_translations: HERCULES VIGILANCIA E SEGURANÇA LTDA, EMPRESA JORNALÍSTICA ITABORAI LTDA ME
+---
+document_values:  0.1, 0.09, 0.09, 0.07, 0.07, 0.07, 0.07, 0.05, 0.05, 0.04
 ---
 body:
-
- #actual content
+test

@@ -3,10 +3,17 @@ acronym: PT
 ---
 image: /static/img/parties/PT.png
 ---
-color:  #CC0000
+color: #CC0000
 ---
-title:  Partido dos Trabalhadores
+title: Partido dos Trabalhadores
+---
+suppliers: "Cia Aérea - TAM", "Cia Aérea - GOL", "Cia Aérea - AZUL", "Cia Aérea - AVIANCA", "CELULAR FUNCIONAL", "RAMAL", "TELEFONICA BRASIL S.A.", "C.-.M.D.P.B", "Basília Maria Batista Aguirre", "K.I.E.P.L.-.E"
+---
+abbreviations: C.-.M.D.P.B, K.I.E.P.L.-.E
+---
+abb_translations: CORREIOS - MALA DIRETA POSTAL BÁSICA, KARISMA IMPRESSOS E PAPELARIA LTDA - EPP
+---
+document_values:  13.7, 12.53, 4.66, 3.59, 1.73, 1.15, 0.65, 0.58, 0.55, 0.47
 ---
 body:
-
- #actual content
+test

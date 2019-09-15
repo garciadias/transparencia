@@ -3,10 +3,17 @@ acronym: SD
 ---
 image: /static/img/parties/SD.png
 ---
-color:  #D86425
+color: #D86425
 ---
-title:  Solidariedade
+title: Solidariedade
+---
+suppliers: "Cia Aérea - TAM", "Cia Aérea - GOL", "T.A.E.C.A", "Cia Aérea - AVIANCA", "ARAUJO FLEURY ADVOGADOS", "ADVOCACIA ROGERIO AVELAR S/C", "Cia Aérea - TAM", "Cia Aérea - AZUL", "PRIMAVIA LOCADORA DE VEICULOS", "Marcelo Siqueira de Araújo"
+---
+abbreviations: T.A.E.C.A
+---
+abb_translations: TODDE ADVOGADOS E CONSULTORES ASSOCIADOS
+---
+document_values:  2.35, 1.69, 0.81, 0.76, 0.64, 0.62, 0.51, 0.5, 0.37, 0.31
 ---
 body:
-
- #actual content
+test

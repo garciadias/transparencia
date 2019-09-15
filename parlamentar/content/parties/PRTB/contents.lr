@@ -3,10 +3,17 @@ acronym: PRTB
 ---
 image: /static/img/parties/PRTB.png
 ---
-color:  #2cb53f
+color: #2cb53f
 ---
-title:  Partido Renovador Trabalhista Brasileiro
+title: Partido Renovador Trabalhista Brasileiro
+---
+suppliers: "grafica SAMPEL", "I.E.G.E.E.L", "T.L.D.M.E.E.L.-.M", "C.&.L.A.E.C.L", "A.N.D.P.C.A", "Cia Aérea - AVIANCA", "SAMPEL PAPEIS E EDITORA LTDA", "Cia Aérea - TAM", "Cia Aérea - AZUL", "CELULAR FUNCIONAL"
+---
+abbreviations: I.E.G.E.E.L, T.L.D.M.E.E.L.-.M, C.&.L.A.E.C.L, A.N.D.P.C.A
+---
+abb_translations: IDEIA EDITORA GRÁFICA E EMBALAGENS LTDA, TOTALTERRA LOCAÇÃO DE MÁQUINAS E EQUIPAMENTOS LTDA - ME, COSTA & LEITE ADVOCACIA E CONSULTORIA LTDA-S/C, Associação Nordestina de Produção Cultural ANPC
+---
+document_values:  0.03, 0.03, 0.03, 0.03, 0.01, 0.01, 0.01, 0.01, 0.0, 0.0
 ---
 body:
-
- #actual content
+test

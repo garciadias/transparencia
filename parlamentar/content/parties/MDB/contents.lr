@@ -3,10 +3,13 @@ acronym: MDB
 ---
 image: /static/img/parties/MDB.png
 ---
-color:  #30914D
+color: #30914D
 ---
-title:  Movimento Democrático Brasileiro
+title: Movimento Democrático Brasileiro
+---
+suppliers: 
+---
+document_values:  10.46, 8.81, 4.12, 2.52, 1.3, 1.19, 1.03, 1.0, 0.97, 0.62
 ---
 body:
-
- #actual content
+test

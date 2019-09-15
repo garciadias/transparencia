@@ -3,10 +3,17 @@ acronym: DC
 ---
 image: /static/img/parties/DC.png
 ---
-color:  #0065cb
+color: #0065cb
 ---
-title:  Democracia Cristã
+title: Democracia Cristã
+---
+suppliers: "RJ BAZAR LTDA - ME", "LKL ARTES GRÁFICAS LTDA - ME", "O.F.S.D.V.L", "Cia Aérea - TAM", "F.D.I.V.E.L.L", "R.D.I.C.E.P.L", "CELULAR FUNCIONAL", "Cia Aérea - GOL", "RAMAL", "TAM LINHAS AÉREAS S.A."
+---
+abbreviations: O.F.S.D.V.L, F.D.I.V.E.L.L, R.D.I.C.E.P.L
+---
+abb_translations: O. F. SERVIÇOS DE VIGILÂNCIA LTDA, FLANCAR DE IGUAÇU VEÍCULOS E LOCAÇÕES LTDA, REALEZA DE IGUAÇU COMBUSTÍVEIS E PNEUS LTDA.
+---
+document_values:  0.02, 0.02, 0.02, 0.02, 0.02, 0.01, 0.0, 0.0, 0.0, 0.0
 ---
 body:
-
- #actual content
+test

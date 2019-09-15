@@ -3,10 +3,17 @@ acronym: PSD
 ---
 image: /static/img/parties/PSD.png
 ---
-color:  #FFFFFF
+color: #FFFFFF
 ---
-title:  Partido Social Democrático
+title: Partido Social Democrático
+---
+suppliers: "Cia Aérea - TAM", "Cia Aérea - GOL", "Cia Aérea - AZUL", "Cia Aérea - AVIANCA", "CELULAR FUNCIONAL", "T.C.S.E.C.L", "O.D.V.A.S", "F.Z.E.A.A.S.D.A", "RAMAL", "TOP LINE TAXI AEREO LTDA"
+---
+abbreviations: T.C.S.E.C.L, O.D.V.A.S, F.Z.E.A.A.S.D.A
+---
+abb_translations: TAPAJÓS CONSULTORIA, SERVIÇOS E COMERCIO LTDA, Oliveira de Vasconcelos Advocacia S/S, Fabiano Zica E Advogados Associados Sociedade de Advogados
+---
+document_values:  7.01, 5.47, 2.23, 1.81, 1.14, 0.67, 0.65, 0.6, 0.59, 0.48
 ---
 body:
-
- #actual content
+test

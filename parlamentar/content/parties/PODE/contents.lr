@@ -3,10 +3,17 @@ acronym: PODE
 ---
 image: /static/img/parties/PODE.png
 ---
-color:  #FFFFFF
+color: #FFFFFF
 ---
-title:  Podemos
+title: Podemos
+---
+suppliers: "Cia Aérea - GOL", "Cia Aérea - TAM", "Cia Aérea - AZUL", "Cia Aérea - AVIANCA", "Cia Aérea - PASSAREDO", "GRAFICA MARGE - LTDA - ME", "G.G.D.A.L", "EXTRA IMOVEIS", "VERBO COMUNICAÇÃO LTDA", "UNIPAUTA FORMULÁRIOS LTDA"
+---
+abbreviations: G.G.D.A.L
+---
+abb_translations: Global Gráfica da Amazônia LTDA
+---
+document_values:  2.29, 2.17, 0.7, 0.6, 0.48, 0.44, 0.39, 0.36, 0.35, 0.3
 ---
 body:
-
- #actual content
+test

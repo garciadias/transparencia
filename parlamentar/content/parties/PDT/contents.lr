@@ -3,10 +3,17 @@ acronym: PDT
 ---
 image: /static/img/parties/PDT.png
 ---
-color:  #FE8E6D
+color: #FE8E6D
 ---
-title:  Partido Democrático Trabalhista
+title: Partido Democrático Trabalhista
+---
+suppliers: "Cia Aérea - TAM", "Cia Aérea - GOL", "Cia Aérea - AVIANCA", "Cia Aérea - AZUL", "C.E.E.I.G", "D.A.E.A.S", "ARNO AURÉLIO GLASER -ME", "B.C.D.V.L", "CELULAR FUNCIONAL", "R.L.S.D.C"
+---
+abbreviations: C.E.E.I.G, D.A.E.A.S, B.C.D.V.L
+---
+abb_translations: CONTRASTE EDITORA E INDUSTRIA GRAFICA, DUAILIBE ADVOGADOS E ASSOCIADOS S/S, BRIZZA COMÉRCIO DE VEICULOS LTDA
+---
+document_values:  4.28, 3.36, 1.14, 0.84, 0.53, 0.52, 0.42, 0.38, 0.38, 0.37
 ---
 body:
-
- #actual content
+test

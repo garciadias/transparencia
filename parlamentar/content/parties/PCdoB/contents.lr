@@ -3,10 +3,17 @@ acronym: PCdoB
 ---
 image: /static/img/parties/PCdoB.png
 ---
-color:  #DA251C
+color: #DA251C
 ---
-title:  Partido Comunista do Brasil
+title: Partido Comunista do Brasil
+---
+suppliers: "Cia Aérea - GOL", "Cia Aérea - TAM", "Cia Aérea - AVIANCA", "Cia Aérea - AZUL", "Folha Nacional de Cultura", "CELULAR FUNCIONAL", "FAST DESIGN", "DALETH VEICULOS LTDA EPP", "A.C.I.E.E.E.S.D.I.L", "D.L.E.C.D.V.L"
+---
+abbreviations: A.C.I.E.E.E.S.D.I.L, D.L.E.C.D.V.L
+---
+abb_translations: AUTHORITY COM. IMP. E EXPORTAÇÃO E SERV. DE INFORMATICA LTDA, DRIVE LOCADORA E COMERCIO DE VEICULOS LTDA-EPP
+---
+document_values:  2.99, 2.77, 0.78, 0.59, 0.42, 0.36, 0.31, 0.3, 0.3, 0.28
 ---
 body:
-
- #actual content
+test

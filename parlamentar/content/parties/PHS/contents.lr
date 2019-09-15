@@ -3,10 +3,17 @@ acronym: PHS
 ---
 image: /static/img/parties/PHS.png
 ---
-color:  #B87333
+color: #B87333
 ---
-title:  Partido Humanista da Solidariedade
+title: Partido Humanista da Solidariedade
+---
+suppliers: "Cia Aérea - TAM", "Cia Aérea - GOL", "M.P.E.S.L", "G.C.E.A.D.C.L", "Cia Aérea - AVIANCA", "J. DE O. CARVALHO - ME", "GRAFICA DESIGN", "IMG Publicidade", "F3 Comunicação S/S ME", "JATO GRAFICA RAPIDA LTDA ME"
+---
+abbreviations: M.P.E.S.L, G.C.E.A.D.C.L
+---
+abb_translations: METODO PROJETOS E SERVIÇOS LTDA, G7 CONSULTORIA E ASSESSORIA DE COMUNICAÇÃO LTDA
+---
+document_values:  0.5, 0.34, 0.33, 0.28, 0.27, 0.12, 0.11, 0.1, 0.09, 0.09
 ---
 body:
-
- #actual content
+test

@@ -3,10 +3,17 @@ acronym: PATRI
 ---
 image: /static/img/parties/PATRI.png
 ---
-color:  #CCAA00
+color: #CCAA00
 ---
-title:  Patriota
+title: Patriota
+---
+suppliers: "Cia Aérea - GOL", "Cia Aérea - TAM", "OFILOC", "Vértice Associados", "KROMA GRÁFICA", "O.F.S.D.V.L", "Cia Aérea - GOL", "V.-.S.C.D.P.A", "S.H.C.E.T.D.I", "Cia Aérea - AVIANCA"
+---
+abbreviations: O.F.S.D.V.L, V.-.S.C.D.P.A, S.H.C.E.T.D.I
+---
+abb_translations: O. F. SERVIÇOS DE VIGILÂNCIA LTDA, VERTICE - SOCIEDADE CIVIL DE PROFISSIONAIS ASSOCIADOS, SWELL HOME CONSULTORIA EM TECNOLOGIA DA INFORMAÇÃO
+---
+document_values:  0.93, 0.55, 0.48, 0.36, 0.35, 0.29, 0.26, 0.25, 0.24, 0.21
 ---
 body:
-
- #actual content
+test

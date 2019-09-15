@@ -3,10 +3,13 @@ acronym: PSTU
 ---
 image: /static/img/parties/PSTU.png
 ---
-color:  #FF0000
+color: #FF0000
 ---
-title:  Partido Socialista dos Trabalhadores Unificado
+title: Partido Socialista dos Trabalhadores Unificado
+---
+suppliers: 
+---
+document_values:  
 ---
 body:
-
- #actual content
+test

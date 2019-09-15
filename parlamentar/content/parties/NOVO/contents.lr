@@ -3,10 +3,17 @@ acronym: NOVO
 ---
 image: /static/img/parties/NOVO.png
 ---
-color:  #FF8511
+color: #FF8511
 ---
-title:  Partido Novo
+title: Partido Novo
+---
+suppliers: "Cia Aérea - AZUL", "TAM LINHAS AEREAS S/A.", "BENEDITA COMUNICAÇÃO LTDA", "INSTITUTO AQ", "AVIANCA BRASIL", "P.&.L.C.E.A.S.D.A", "Elizama Miranda da Costa", "A.L.A.B.S", "U.D.B.T.L", "INSTITUTO AQUILA DE GESTAO"
+---
+abbreviations: P.&.L.C.E.A.S.D.A, A.L.A.B.S
+---
+abb_translations: PERRELLI & LANCA CONSULTORES E ADVOGADOS SOCIEDADE DE ADVOGADOS, AZUL LINHAS AÉREAS BRASILEIRAS S.A.
+---
+document_values:  0.02, 0.02, 0.02, 0.01, 0.01, 0.01, 0.01, 0.01, 0.01, 0.01
 ---
 body:
-
- #actual content
+test

@@ -3,10 +3,13 @@ acronym: PP
 ---
 image: /static/img/parties/PP.png
 ---
-color:  #FFFFFF
+color: #FFFFFF
 ---
-title:  Progressistas
+title: Progressistas
+---
+suppliers: 
+---
+document_values:  12.95, 9.35, 2.87, 2.36, 1.18, 0.99, 0.98, 0.7, 0.61, 0.59
 ---
 body:
-
- #actual content
+test

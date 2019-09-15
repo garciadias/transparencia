@@ -3,10 +3,17 @@ acronym: PRB
 ---
 image: /static/img/parties/PRB.png
 ---
-color:  #00E6A8
+color: #00E6A8
 ---
-title:  Partido Republicano Brasileiro
+title: Partido Republicano Brasileiro
+---
+suppliers: "Cia Aérea - TAM", "Cia Aérea - GOL", "Cia Aérea - AVIANCA", "DOUGLAS CUNHA DA SILVA ME", "DUPLIFOLHA GRÁFICA", "Cia Aérea - AZUL", "CELULAR FUNCIONAL", "NOEL DA SILVA VELILA FILHO", "F.4.C.E.S.E.L.-.M", "M.B.C.L"
+---
+abbreviations: F.4.C.E.S.E.L.-.M
+---
+abb_translations: FORMATO 4 COMERCIO E SERVICOS EDITORIAIS LTDA - ME
+---
+document_values:  3.8, 2.72, 1.11, 0.74, 0.68, 0.55, 0.52, 0.48, 0.47, 0.47
 ---
 body:
-
- #actual content
+test

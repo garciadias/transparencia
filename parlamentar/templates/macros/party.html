@@ -8,8 +8,55 @@
       <img class="party-image" src="{{ '/static/img/default.png'|url }}" alt="{{ party.acronym }} image">
     {% endif %}
     <div class="justify">
+      {% if party.abbreviations %}
+      {% set abbreviations = party.abbreviations.split(', ') %}
+      {% set abb_translations = party.abb_translations.split(', ') %}
+      <table style="width:100%">
+      {% for abbreviation in abbreviations %}
+      <tr>
+        <th>{{ abbreviation }}</th>
+        <th>{{ abb_translations[loop.index -1] }}</th>
+      </tr>
+      {% endfor %}
+      </table>
+      {% endif %}
+      <canvas id="myChart"></canvas>
+      {% if not party.document_values %}
+      <p class="title"> Não há dados disponíveis para este partido.</p>
+      {% endif %}
       {{ party.body }}
     </div>
   </div>
 </div>
+{% if party.document_values %}
+<script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+<script type="text/javascript">
+var ctx = document.getElementById('myChart').getContext('2d');
+var chart = new Chart(ctx, {
+    // The type of chart we want to create
+    type: 'bar',
+
+    // The data for our dataset
+    data: {
+        labels: [{{ party.suppliers|safe }}],
+        datasets: [{
+            label: 'Total gasto entre 2014 e Julho de 2019',
+            backgroundColor: '{{ party.color|safe }}',
+            borderColor: '{{ party.color|safe }}',
+            data: [{{ party.document_values }}]
+        }],
+    },
+  options: {
+    scales: {
+      yAxes: [{
+        scaleLabel: {
+          display: true,
+          labelString: 'Milões de Reais',
+        }
+      }]
+    }
+  },
+});
+</script>
+{% endif %}
 {% endmacro %}
